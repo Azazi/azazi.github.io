@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://pages.cpsc.ucalgary.ca/~amazazi/</loc>
+  <lastmod>2015-03-07T08:49:39+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pages.cpsc.ucalgary.ca/~amazazi/index.html</loc>
+  <lastmod>2015-03-07T08:49:39+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pages.cpsc.ucalgary.ca/~amazazi/research.html</loc>
+  <lastmod>2015-03-07T08:50:17+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pages.cpsc.ucalgary.ca/~amazazi/projects.html</loc>
+  <lastmod>2015-03-07T08:49:49+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pages.cpsc.ucalgary.ca/~amazazi/publication.html</loc>
+  <lastmod>2015-03-07T08:50:01+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pages.cpsc.ucalgary.ca/~amazazi/teaching.html</loc>
+  <lastmod>2015-03-07T08:50:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pages.cpsc.ucalgary.ca/~amazazi/contact.html</loc>
+  <lastmod>2015-03-07T09:20:36+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pages.cpsc.ucalgary.ca/~amazazi/cv.pdf</loc>
+  <lastmod>2014-12-08T05:17:58+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pages.cpsc.ucalgary.ca/~amazazi/publications/A%20Unified%20Model%20for%20Mapping%20Gestures%20to%20Tracking%20Sensors%20in%20Multi-Surface%20Environments.pdf</loc>
+  <lastmod>2015-03-02T04:16:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pages.cpsc.ucalgary.ca/~amazazi/publications/Investigating%20Inertial%20Measurement%20Units%20for%20Spatial%20Awareness%20in%20Multi-Surface%20Environments.pdf</loc>
+  <lastmod>2015-03-02T04:49:22+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pages.cpsc.ucalgary.ca/~amazazi/publications/Using%20Multiple%20Kinects%20to%20Build%20Larger%20Multi-Surface%20Environments.pdf</loc>
+  <lastmod>2015-03-02T05:08:11+00:00</lastmod>
+</url>
+</urlset>
